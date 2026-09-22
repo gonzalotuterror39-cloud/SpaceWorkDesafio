@@ -1,0 +1,13 @@
+# Metadatos de Eclipse
+.metadata/
+.settings/
+
+# Binarios y compilación
+bin/
+build/
+out/
+*.class
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
